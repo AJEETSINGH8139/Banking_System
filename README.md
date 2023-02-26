@@ -1,6 +1,6 @@
 # Bankist-WebApp 🏦
 
-### 👉 [**Bankist WebApp**]() 👈
+### 👉 [**Bankist WebApp**](https://ajeetsingh8139.github.io/Banking_System/) 👈
 
 ## About :
 
@@ -17,18 +17,19 @@
 
 | Username               | UserID | Password |
 | ---------------------- | ------ | -------- |
-| Jonas Schmedtmann      | as     | 1111     |
-| Jessica Davis          | vs     | 2222     |
-| Steven Thomas Williams | ns     | 3333     |
-| Sarah Smith            | ys     | 4444     |
+| Ajeet Singh       | as     | 1111     |
+| Vikas Singh       | vs     | 2222     |
+| Neha Shukla Singh | nss    | 3333     |
+| Yashwant Singh    | ys     | 4444     |
 
 ## Deployment
 
-Deployed Website:
+Deployed Website: https://ajeetsingh8139.github.io/Banking_System/
 
 ## Flow-Chart of the game :
 
-<a ><img src="C:\Users\Acer\OneDrive\Desktop\Bankist-WebApp\Bankist-flowchart.png"/></a>
+
+![Bankist-flowchart](https://user-images.githubusercontent.com/66356658/221408453-65aad95f-212c-4745-a190-50b7b3def733.png)
 
 ## Languages used:
 
